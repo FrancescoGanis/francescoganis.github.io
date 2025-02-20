@@ -2,7 +2,7 @@
 layout: post
 title: SoundCubes
 description: Scalable and interactive sound localization training tool
-image: assets/images/ChildPointCubes.jpg
+image: assets/images/SoundCubes_User.jpg
 nav-menu: 
 ---
 
@@ -34,8 +34,14 @@ nav-menu:
 <p>This project is part of my PhD, in collaboration with the <a href="https://melcph.create.aau.dk">Multisensory Experience Lab at Aalborg University</a> and the <a href="https://www.rigshospitalet.dk/english/departments/centre-of-head-and-orthopaedics/department-of-otorhinolaryngology-head-and-neck-surgery-and-audiology/Centres-and-Units/Pages/Copenhagen-Hearing-and-Balance-Centre.aspx">Hearing and Balance Center at Rigshospitalet</a>. It is supervised by <a href="https://vbn.aau.dk/en/persons/107881">Prof. Stefania Serafin</a>, <a href="https://research.regionh.dk/da/persons/lone-marianne-percy-smith">Prof. Lone Percy-Smith</a>, and <a href="https://vbn.aau.dk/en/persons/adj">Assistant Prof. Ali Adjorlu</a>.</p>
 
 <h2>Can I see more?</h2>
-<p>The project is currently in the evaluation phase. More details will be shared once the manuscript is accepted for publication.</p>
+<p>The project is currently in the evaluation phase. More details will be shared once the manuscript is accepted for publication. Please contact me directly for info.</p>
 
 <h2>Gallery</h2>
 <span class="image fit" style="max-width: 200px;"><img src="{% link assets/images/SoundCubesControllerApp.jpg %}" alt="Control App screenshot"/><br><em style="display: block; text-align: center; font-size: 0.9em;">Control App</em></span>
 
+<br>
+<div style="text-align: center;">
+	<ul class="actions">
+		<li><a href="Portfolio.html" class="button">Back to Portfolio</a></li>
+	</ul>
+</div>

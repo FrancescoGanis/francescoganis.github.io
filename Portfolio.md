@@ -23,7 +23,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="SoundCubes.html" class="image">
-			<img src="{% link assets/images/ChildPointCubes.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/SoundCubes_User.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -46,7 +46,7 @@ nav-menu: true
 				<header class="major">
 					<h3>TickleTuner</h3>
 				</header>
-				<p>Description</p>
+				<p>Tickle Tuner is a smartphone cover that provides high quality vibrotactile feedback while using your phone.</p>
 				<ul class="actions">
 					<li><a href="TickleTuner.html" class="button">Learn more</a></li>
 				</ul>
