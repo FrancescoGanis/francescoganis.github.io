@@ -38,6 +38,22 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
+		<a href="EmotiCubes.html" class="image">
+			<img src="{% link assets/images/EmotiCubes_Light.jpg %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>EmotiCubes</h3>
+				</header>
+				<p>EmotiCubes is a prototype designed to train emotion recognition skills in children with hearing loss.</p>
+				<ul class="actions">
+					<li><a href="EmotiCubes.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
 		<a href="TickleTuner.html" class="image">
 			<img src="{% link assets/images/TickleTuner_Back.jpg %}" alt="" data-position="top center" />
 		</a>
@@ -49,6 +65,22 @@ nav-menu: true
 				<p>Tickle Tuner is a smartphone cover that provides high quality vibrotactile feedback while using your phone.</p>
 				<ul class="actions">
 					<li><a href="TickleTuner.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+		<section>
+		<a href="HapticPrototypes.html" class="image">
+			<img src="{% link assets/images/iPad_Back2.jpg %}" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Haptic Prototypes</h3>
+				</header>
+				<p></p>
+				<ul class="actions">
+					<li><a href="HapticPrototypes.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
