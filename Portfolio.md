@@ -2,7 +2,7 @@
 title: Portfolio
 layout: landing
 description: 'This is a collection of some of my projects that I worked on in the last years.'
-image: assets/images/pic07.jpg
+image: assets/images/FoggyCPH.jpg
 nav-menu: true
 ---
 
@@ -78,9 +78,25 @@ nav-menu: true
 				<header class="major">
 					<h3>Haptic Prototypes</h3>
 				</header>
-				<p></p>
+				<p>Two different prototypes for exploring haptics and vibrations.</p>
 				<ul class="actions">
 					<li><a href="HapticPrototypes.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="Videogame.html" class="image">
+			<img src="{% link assets/images/Vibrotactile_Videogame.png %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Vibrotactile Memory</h3>
+				</header>
+				<p>Vibrotactile Memory is a video game for timbre perception training in children with cochlear implants.</p>
+				<ul class="actions">
+					<li><a href="Videogame.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>

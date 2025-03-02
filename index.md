@@ -8,4 +8,6 @@ author: null
 show_tile: false
 ---
 
-This is where I post about both personal and work-related projects as well as some of my passions such as photography and music!
+Hey, I'm an Italian PhD student living in Copenhagen, Denmark. 
+
+<p>This is where I post about both personal and work-related projects as well as some of my passions such as photography and music!</p>
