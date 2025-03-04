@@ -26,7 +26,7 @@ image: assets/images/TickleTuner_Back.jpg
 
 <h2>How does it work?</h2>
 <p><span class="image right" style="max-width: 400px;"><video width="100%" autoplay loop muted>
-    <source src="{% link assets/images/TickleTuner_Insert_Remove.mp4 %}" type="video/mp4">
+    <source src="{% link assets/images/TickleTuner_Insert_Remove.webm %}" type="video/mp4">
     Your browser does not support the video tag.
 </video><br><em style="display: block; text-align: center; font-size: 0.9em;">Tickle Tuner insertion and removal</em></span></p>
 
@@ -51,13 +51,13 @@ image: assets/images/TickleTuner_Back.jpg
 		<span class="image fit" style="max-width: 500px;"><img src="{% link assets/images/TickleTuner_Front.jpg %}" alt="Front of the TickleTuner"/><br><em style="display: block; text-align: center; font-size: 0.9em;">Tickle Tuner front</em></span>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<span class="image fit" style="max-width: 500px;"><img src="{% link assets/images/Testbench.png %}" alt="Testbench"/><br><em style="display: block; text-align: center; font-size: 0.9em;">Testbench</em></span>
+		<span class="image fit" style="max-width: 500px;"><img src="{% link assets/images/Testbench.jpg %}" alt="Testbench"/><br><em style="display: block; text-align: center; font-size: 0.9em;">Testbench</em></span>
 	</div>
 	<div class="6u 12u$(small)">
 		<span class="image fit" style="max-width: 500px;"><img src="{% link assets/images/Print_Clay_Comparison.jpg %}" alt="Print and Clay Comparison"/><br><em style="display: block; text-align: center; font-size: 0.9em;">Print and Clay Comparison</em></span>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<span class="image fit" style="max-width: 500px;"><img src="{% link assets/images/Blender_Front-Back_Model.png %}" alt="Blender Front and Back Model"/><br><em style="display: block; text-align: center; font-size: 0.9em;">Blender Front and Back Model</em></span>
+		<span class="image fit" style="max-width: 500px;"><img src="{% link assets/images/Blender_Front-Back_Model.jpg %}" alt="Blender Front and Back Model"/><br><em style="display: block; text-align: center; font-size: 0.9em;">Blender Front and Back Model</em></span>
 	</div>
 </div>
 

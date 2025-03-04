@@ -26,7 +26,7 @@ image: assets/images/SoundCubes_User.jpg
 <p>Sound localization is crucial for communication, enjoying music, and responding to emergencies. Children with hearing loss often struggle with this skill, leading to social isolation and poor academic performance. Research shows that spatial training can improve sound localization in those with severe hearing loss. SoundCubes offers an engaging and scalable training tool for these children.</p>
 
 <h2>How does it work?</h2>
-<p><span class="image right"><img src="{% link assets/images/SoundCubes_Sketch.svg %}" alt="Sketch of a child pointing at one of the cubes that is playing the sound."/><br><em style="display: block; text-align: center; font-size: 0.9em;">Sketch of the interaction</em></span></p>
+<p><span class="image right"><img src="{% link assets/images/SoundCubes_Sketch.png %}" alt="Sketch of a child pointing at one of the cubes that is playing the sound."/><br><em style="display: block; text-align: center; font-size: 0.9em;">Sketch of the interaction</em></span></p>
 <p>The child is surrounded by SoundCubes, each with a loudspeaker. One cube plays a sound, and the child must identify and pick up the correct cube. The system provides feedback based on their choice. A therapist or parent controls the system via a smartphone, selecting sounds, difficulty levels, and monitoring performance. An automatic mode is also available.</p>
 
 <h2>Who is involved?</h2>

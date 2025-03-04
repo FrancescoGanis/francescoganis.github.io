@@ -22,7 +22,7 @@ image: assets/images/iPad_Back2.jpg
 <p>In here I present two different prototypes that I created between my Master Degree's thesis and the beginning of my PhD. One iPad haptic cover and a teddy bear with vibrotactile feedback. Both are part of an exploration for different approaches to haptic feedback combined with music for the population with hearing challenges.</p>
 
 <h3> iPad Haptic Cover</h3>
-<p><span class="image right"><img src="{% link assets/images/iPad_Sketch.png%}" alt="Sketch of a wooden cover for iPad with a 3D printed shell to provide haptic feedback."/><br><em style="display: block; text-align: center; font-size: 0.9em;">First idea, just a sketch</em></span></p>
+<p><span class="image right"><img src="{% link assets/images/iPad_Sketch.jpg%}" alt="Sketch of a wooden cover for iPad with a 3D printed shell to provide haptic feedback."/><br><em style="display: block; text-align: center; font-size: 0.9em;">First idea, just a sketch</em></span></p>
 <p>The iPad cover is an idea to covey high quality feedback while interacting with the screen with one hand while holding it and feeling the vibrations with the other. One might wonder why all this when the iPad provides already haptic feedback. The answer is in the intensity, flexbility and quality of the vibrations. The actuator inside the 3D printed enclosure is closely related to a loudspeaker, covering and extremely wide range of frequencies and can provide quite powerful experiencies. This allows to feed the actuator directly with sound, having access to complex textures, beats, timbres etc. </p>
 
 <h3> Teddy Bear</h3>

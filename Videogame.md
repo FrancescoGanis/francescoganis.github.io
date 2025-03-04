@@ -2,7 +2,7 @@
 layout: post
 title: Vibrotactile Memory
 description: Scalable and interactive sound localization training tool
-image: assets/images/Vibrotactile_Videogame.png
+image: assets/images/Vibrotactile_Videogame.jpg
 ---
 
 <!-- Main -->
