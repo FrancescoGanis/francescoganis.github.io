@@ -29,6 +29,10 @@ image: assets/images/iPad_Back2.jpg
 <p><span class="image left"><img src="{% link assets/images/Soft_Toy.jpg%}" alt="Picture of the soft toy."/><br><em style="display: block; text-align: center; font-size: 0.9em;">The soft toy</em></span></p>
 <p> The teddy bear, instead, aims to provide a more intimate experience especially designed for children. The bear is equipped with a small speaker and a vibrotactile actuator. The speaker is used to play music, while the actuator is used to provide vibrations in sync with the music. The prototype behaves as an augmented Bluetooth loudspeaker, providing both sound and vibrations to the child that plays with it!</p> 
 
+<br><br>
+<h2>What have I learned?</h2>
+<p>I designed, developed, programmed, and built the prototypes. I learned about haptics and vibrotactile feedback, rapid prototyping, 3D printing, audio programming, participatory design with children.</p>
+
 <div style="clear: both;"></div>
 <h2>Who is involved?</h2>
 <p>These projects are a collaboration between the <a href="https://melcph.create.aau.dk">Multisensory Experience Lab at Aalborg University</a> and Oticon Medical. They have been supervised by <a href="https://vbn.aau.dk/en/persons/107881">Prof. Stefania Serafin</a> and Marianna Vatti.</p>

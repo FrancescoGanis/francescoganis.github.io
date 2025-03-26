@@ -28,7 +28,10 @@ image: assets/images/EmotiCubes_Light.jpg
 
 
 <h2>Who is involved?</h2>
-<p>This project is part of my PhD, in collaboration with the <a href="https://melcph.create.aau.dk">Multisensory Experience Lab at Aalborg University</a> and the <a href="https://www.dbspl.nl/">dB SPL Lab</a> at <a href="https://www.umcg.nl/">University Medical Center Groningen (UMCG)</a> - The Netherlands. It is supervised by <a href="https://vbn.aau.dk/en/persons/107881">Prof. Stefania Serafin</a>, <a href="https://research.regionh.dk/da/persons/lone-marianne-percy-smith">Prof. Lone Percy-Smith</a>, and <a href="https://vbn.aau.dk/en/persons/adj">Assistant Prof. Ali Adjorlu</a>.</p>
+<p>This project is part of my PhD at Aalborg University, in collaboration with the <a href="https://melcph.create.aau.dk">Multisensory Experience Lab at Aalborg University</a> and the <a href="https://www.dbspl.nl/">dB SPL Lab</a> at <a href="https://www.umcg.nl/">University Medical Center Groningen (UMCG)</a> - The Netherlands. It is supervised by <a href="https://vbn.aau.dk/en/persons/107881">Prof. Stefania Serafin</a>, <a href="https://research.regionh.dk/da/persons/lone-marianne-percy-smith">Prof. Lone Percy-Smith</a>, and <a href="https://vbn.aau.dk/en/persons/adj">Assistant Prof. Ali Adjorlu</a>.</p>
+
+<h2>What have I learned?</h2>
+<p>I designed, developed, programmed, and built the system. I learned about emotions identification, prototyping with children, laser-cutting, 3D printing, embedded programming, and data analysis. Everything with a focus on sound, of course.</p> 
 
 <h2>Can I see more?</h2>
 <p>The project is currently in the evaluation phase. More details will be shared once the manuscript is accepted for publication. Please contact me directly for info.</p>

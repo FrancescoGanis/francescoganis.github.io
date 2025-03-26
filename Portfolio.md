@@ -1,7 +1,7 @@
 ---
 title: Portfolio
 layout: landing
-description: 'This is a collection of some of my projects that I worked on in the last years.'
+description: 'This is a collection of projects I have worked on over the past few years.'
 image: assets/images/FoggyCPH.jpg
 nav-menu: true
 ---
@@ -30,7 +30,7 @@ nav-menu: true
 				<header class="major">
 					<h3>SoundCubes</h3>
 				</header>
-				<p>SoundCubes is a prototype designed to train sound localization skills in children with hearing loss.</p>
+				<p>SoundCubes is a prototype designed to train sound localization skills in children with hearing challenges.</p>
 				<ul class="actions">
 					<li><a href="SoundCubes.html" class="button">Learn more</a></li>
 				</ul>
@@ -46,7 +46,7 @@ nav-menu: true
 				<header class="major">
 					<h3>EmotiCubes</h3>
 				</header>
-				<p>EmotiCubes is a prototype designed to train emotion recognition skills in children with hearing loss.</p>
+				<p>EmotiCubes is a prototype designed to train emotion recognition skills in children with hearing challenges.</p>
 				<ul class="actions">
 					<li><a href="EmotiCubes.html" class="button">Learn more</a></li>
 				</ul>

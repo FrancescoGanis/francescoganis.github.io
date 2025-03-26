@@ -41,6 +41,9 @@ image: assets/images/TickleTuner_Back.jpg
 <h2>Who is involved?</h2>
 <p>This project is a collaboration between the <a href="https://melcph.create.aau.dk">Multisensory Experience Lab at Aalborg University</a> and Oticon Medical. It has been supervised by <a href="https://vbn.aau.dk/en/persons/107881">Prof. Stefania Serafin</a> and Marianna Vatti.</p>
 
+<h2>What have I learned?</h2>
+<p>I designed, developed, programmed, and built the system. I learned about haptics and vibrotactile feedback, 3D printing, audio programming, rapid audio app prototyping, and data analysis.</p> 
+
 <h2>Can I see more?</h2>
 <p>There is article that provides in-depth information about the Tickle Tuner. You can find it <a href="https://link.springer.com/chapter/10.1007/978-3-031-15019-7_2">here</a>.</p>
 
