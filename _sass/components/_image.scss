@@ -69,8 +69,8 @@ img {
 
     &.main {
         display: block;
-        margin: (_size(element-margin) * 1.25) 0;
-        width: 100%;
+        margin: (_size(element-margin) * 1.25) auto;
+        width: 70%;
 
         img {
             width: 100%;
@@ -78,6 +78,12 @@ img {
 
         @include breakpoint(small) {
             margin: (_size(element-margin) * 0.75) 0;
+        }
+
+        // Reduce width on wide screens
+        @include breakpoint(large) {
+            width: 80%; // Adjust this value as needed
+            margin: (_size(element-margin) * 1.25) auto; // Center the image
         }
     }
 
