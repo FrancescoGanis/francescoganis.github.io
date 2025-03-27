@@ -8,6 +8,14 @@
 
 img {
     max-width: 100%;
+    pointer-events: none; // Disable interaction with images
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -webkit-user-drag: none;
 }
 
 .image {
@@ -17,6 +25,15 @@ img {
 
     img {
         display: block;
+        pointer-events: none; // Disable interaction with images inside .image
+        -webkit-touch-callout: none;
+        -webkit-user-select: none;
+        -khtml-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+        pointer-events: none;
+        -webkit-user-drag: none;
     }
 
     &.left,
