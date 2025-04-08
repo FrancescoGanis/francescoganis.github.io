@@ -17,7 +17,12 @@ nav-menu: true
 			<div class="content">
 				<div class="inner">
 				</div>
-				<p>You can download my CV <a href="assets/documents/FrancescoGanis_CV.pdf">here</a>.</p>
+				<p>You can find my latest CV here.</p>
+			</div>
+			<div style="text-align: left;">
+				<ul class="actions">
+					<li><a href="assets/documents/FrancescoGanis_CV.pdf" class="button" target="_blank">Download CV</a></li>
+				</ul>
 			</div>
 		</section>
 		<br><br> <!-- Added space after CV -->
@@ -88,5 +93,5 @@ nav-menu: true
 		</section>
 	</div>
 </section>
-
+<br><br> 
 </div>
