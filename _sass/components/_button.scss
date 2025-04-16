@@ -130,3 +130,11 @@
 			opacity: 0.25;
 		}
 	}
+
+.button.next.scrolly {
+    display: none; // Hide by default
+
+    @media screen and (max-width: 768px) { // Adjust breakpoint as needed
+        display: inline-block; // Show on small screens
+    }
+}
