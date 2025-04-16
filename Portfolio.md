@@ -69,7 +69,7 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
-		<section>
+	<section>
 		<a href="HapticPrototypes.html" class="image">
 			<img src="{% link assets/images/iPad_Back2.jpg %}" alt="" data-position="top center" />
 		</a>
@@ -97,6 +97,22 @@ nav-menu: true
 				<p>Vibrotactile Memory is a video game for timbre perception training in children with cochlear implants.</p>
 				<ul class="actions">
 					<li><a href="Videogame.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="Plugins.html" class="image">
+			<img src="{% link assets/images/DDSP_Plugin.png %}" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Audio Plug-ins</h3>
+				</header>
+				<p>Two different audio plug-ins that I developed during my Master's program.</p>
+				<ul class="actions">
+					<li><a href="Plugins.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>

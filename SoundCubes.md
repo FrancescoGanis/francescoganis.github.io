@@ -12,7 +12,6 @@ image: assets/images/SoundCubes_User.jpg
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<!-- <h1>SoundCubes</h1> -->
 		</header>
 <!-- 
 <span class="image main"><img src="{% link assets/images/ChildPointCubes.jpg %}" alt="AI generated image of a child pointing at cubes"/></span> -->
