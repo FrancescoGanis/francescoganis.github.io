@@ -117,6 +117,22 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
+	<section>
+		<a href="DrumsProjects.html" class="image">
+			<img src="{% link assets/images/LMA_Skeleton.png %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Drums and Rhythm Projects</h3>
+				</header>
+				<p>Three projects about drums, movement analysis and groove perception.</p>
+				<ul class="actions">
+					<li><a href="DrumsProjects.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
 	
 
 <!-- Three

@@ -55,6 +55,7 @@ image:
 <p>The project was published at the Sound and Music Computing conference in 2021, and the paper can be found <a href="https://vbn.aau.dk/ws/portalfiles/portal/467128544/SMC_2021_paper_55.pdf">here</a>.</p>
 
 <br>
+<br>
 
 <h1 id="real-time-pitch-estimation">Real-time Pitch Estimation</h1>
 <span class="image main" style="width: 65%;"><img src="{% link assets/images/PitchEstimator.png %}" alt="Pitch Estimator Plugin" /></span>
