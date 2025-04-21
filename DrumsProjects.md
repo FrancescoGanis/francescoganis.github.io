@@ -66,7 +66,7 @@ image:
 <p><p>In contemporary music, drummers tweak rhythms to create a specific feel through micro-timing variations. These small adjustments shift the beats' timing based on preference, genre, and tempo, making the rhythm more dynamic and engaging. The term "groove" describes rhythms that make you want to move, thanks to these subtle timing changes.</p></p>
 
 <h2>How does it work?</h2>
-<span class="image right"><img src="{% link assets/images/Drums_Patterns.jpg %}" alt="Scores of the drums' patterns."/><br><em style="display: block; text-align: center; font-size: 0.9em;">Grooves played in the study.</em></span>
+<p><span class="image right"><img src="{% link assets/images/Drums_Patterns.jpg %}" alt="Scores of the drums' patterns."/><br><em style="display: block; text-align: center; font-size: 0.9em;">Grooves played in the study.</em></span></p>
 
 <p>The study was conducted through a listening test where participants rated the danceability of drum patterns with different timing styles (laid-back, on-beat, pushed). Drummers' performances were recorded and analyzed for micro-timing variations. These recordings were then mixed and presented to participants via Google Forms, which included recordings of the drum patterns. Participants listened to the tracks and rated their danceability on a Likert scale. The experiment also included randomization to minimize bias and ensure the reliability of the results.</p>
 

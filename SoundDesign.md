@@ -49,7 +49,7 @@ image:
 </div>
 
 <h2>Who is involved?</h2>
-<p>This project was a thesis for the Bachelor's program in Electronic Music and Sound Technician at the Conservatory of Music "Cesare Pollini" in Padova. The thesis was supervised by <a href="https://it.linkedin.com/in/nbernardini">Professor Nicola Bernardini</a>.</p>
+<p>This project was a thesis for the Bachelor's program in Electronic Music and Sound Technician at the Conservatory of Music "Cesare Pollini" in Padova. The thesis was supervised by <a href="https://it.linkedin.com/in/nbernardini">Prof. Nicola Bernardini</a>.</p>
 
 <h2>Can I see more?</h2>
 <p>Unfortunately, there is no additional publicly available documentation.</p>
@@ -72,7 +72,7 @@ image:
 <p>Sonification adds a safety layer by converting visual information into sound, helping drivers understand their surroundings better. This project aims to enhance autonomous driving systems with audio technology.</p>
 
 <h2>How does it work?</h2>
-<span class="image right"><img src="{% link assets/images/Arrow_Bubbles.jpg %}" alt="Sketch of bubbles and turning direction."/><br><em style="display: block; text-align: center; font-size: 0.9em;">Possible mapping between bubbles, distance, and direction of the turn.</em></span>
+<p><span class="image right"><img src="{% link assets/images/Arrow_Bubbles.jpg %}" alt="Sketch of bubbles and turning direction."/><br><em style="display: block; text-align: center; font-size: 0.9em;">Possible mapping between bubbles, distance, and direction of the turn.</em></span></p>
 
 <p>The sound informs passengers about the vehicle's direction on a pre-planned route, such as turning at an intersection. Bubble sounds are used because they can be easily parameterized, with the rate of bubbles per second being a key sonification parameter. The bubble generator works in real-time, controlling the rate, intensity, and panning of bubbles. The sonification is controlled according to the path and played through the car's audio system. Anticipating the car's movements might reduce anxiety and motion sickness in passengers who are unaware of the vehicle's next actions.</p>
 
