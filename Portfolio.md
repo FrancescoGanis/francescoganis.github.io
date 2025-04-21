@@ -101,6 +101,22 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
+		<section>
+		<a href="SoundDesign.html" class="image">
+			<img src="{% link assets/images/Car_Bubbles.jpg %}" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Sound Design</h3>
+				</header>
+				<p>Two projects for the sonification of autonomous driving vehicles.</p>
+				<ul class="actions">
+					<li><a href="SoundDesign.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
 	<section>
 		<a href="Plugins.html" class="image">
 			<img src="{% link assets/images/DDSP_Plugin.png %}" alt="" data-position="top center" />
