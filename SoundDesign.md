@@ -51,11 +51,16 @@ image:
 <h2>Who is involved?</h2>
 <p>This project was a thesis for the Bachelor's program in Electronic Music and Sound Technician at the Conservatory of Music "Cesare Pollini" in Padova. The thesis was supervised by <a href="https://it.linkedin.com/in/nbernardini">Prof. Nicola Bernardini</a>.</p>
 
+<h2>What have I learned?</h2>
+<p>Through this project, I gained hands-on experience with sound synthesis techniques, designing and programming synthesizers in MAX/MSP, applying sound design principles, conducting user evaluations, and exploring the intersection of auditory feedback and human-computer interaction.</p>
+
+
 <h2>Can I see more?</h2>
 <p>Unfortunately, there is no additional publicly available documentation.</p>
 
 <br>
 <br>
+
 
 <h1 id="sonification-bubbles">Bubbles and an Ideal Bar for Autonomous Vehicles Sonification</h1>
 
@@ -100,6 +105,9 @@ image:
 
 <h2>Who is involved?</h2>
 <p>This project was a "mini-project" as part of a Master's degree in Sound and Music Computing, specifically for the course "Physical Models and Sound Synthesis," supervised by <a href="https://vbn.aau.dk/en/persons/107881">Prof. Stefania Serafin</a>.</p>
+
+<h2>What have I learned?</h2>
+<p>During this project, I gained knowledge of finite-difference schemes and their real-time implementation, explored physical models for sound synthesis, and deepened my understanding of fundamental sound design concepts.</p>
 
 <h2>Can I see more?</h2>
 <p>Unfortunately, there is no additional publicly available documentation.</p>

@@ -50,6 +50,9 @@ image:
 <h2>Who is involved?</h2>
 <p>This project was a "mini-project" as part of my Master's degree in Sound and Music Computing, specifically for the course "New Interfaces for Musical Expression", supervised by <a href="https://vbn.aau.dk/en/persons/dano">Associate Prof. Daniel Overholt</a>.</p>
 
+<h2>What have I learned?</h2>
+<p>I learned about prototyping, electronics, real-time sound synthesis using SuperCollider, user interaction design, and innovative approaches to musical instrument interaction.</p> 
+
 <h2>Can I see more?</h2>
 <p>Unfortunately, there is no additional publicly available documentation.</p>
 
@@ -75,6 +78,9 @@ image:
 
 <h2>Who is involved?</h2>
 <p>This project was a "mini-project" as part of my Master's degree in Sound and Music Computing, specifically for the course "Music Perception and Cognition", supervised by <a href="https://vbn.aau.dk/en/persons/sof">Associate Prof. Sofia Dahl</a>.</p>
+
+<h2>What have I learned?</h2>
+<p>I gained insights into music perception, the impact of micro-timing on rhythm, data analysis techniques, audio editing, and conducting user testing to evaluate subjective experiences.</p>
 
 <h2>Can I see more?</h2>
 <p>The project was published at the RITMO Rhythm Production and Perception Workshop 2021, and the poster can be found <a href="https://vbn.aau.dk/ws/portalfiles/portal/468862621/Ganis_Beat_Precision_Danceability_RPPW21.pdf">here</a>.</p>
@@ -102,6 +108,9 @@ image:
 
 <h2>Who is involved?</h2>
 <p>This project was a mini-project as part of my Master's degree in Sound and Music Computing, specifically for the course "Embodied Interaction," supervised by <a href="https://vbn.aau.dk/en/persons/cer">Associate Prof. Cumhur Erkut</a>.</p>
+
+<h2>What have I learned?</h2>
+<p>I learned about Laban Effort theory, motion analysis using OpenPose, video-based movement tracking, and applying data analysis techniques to compare and evaluate drumming techniques.</p>
 
 <h2>Can I see more?</h2>
 <p>Unfortunately, there is no additional publicly available documentation.</p>
