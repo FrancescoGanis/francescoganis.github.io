@@ -52,7 +52,7 @@ nav-menu: true
 						<li>
 							<strong>F. Ganis</strong>, A. Adjorlu, S. Serafin, and L. M. Percy-Smith, 
 							“Gamified Musical Training for Children with Auditory Nerve Deficiency and Cochlear Implants: a Case Study,” 
-							2023. [Online]. Available: <a href="https://computationalaudiology.com/vcca2023-back-stage/">https://computationalaudiology.com/vcca2023-back-stage/</a>.
+							2023. [Online]. Available: <a href="https://computationalaudiology.com/gamified-musical-training-for-children-with-auditory-nerve-deficiency-and-cochlear-implants-a-case-study/">https://computationalaudiology.com/</a>.
 						</li>
 						<li>
 							<strong>F. Ganis</strong>, M. Vatti, and S. Serafin, 
