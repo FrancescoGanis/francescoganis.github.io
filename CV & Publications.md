@@ -35,6 +35,11 @@ nav-menu: true
 					</header>
 					<ul>
 						<li>
+							<strong>F. Ganis</strong>, A. Adjorlu, K. L. Roslyng, L. M. Percy-Smith, and S. Serafin, 
+							“Vibrotactile Teddy Bear: Enhancing Musical Experiences for Children with Cochlear Nerve Deficiency through a Vibrotactile Soft Toy,” 
+							2025. [Online]. Available: <a href="https://zenodo.org/records/15841353">10.5281/zenodo.15841353</a>.							
+						</li>
+						<li>
 							<strong>F. Ganis</strong>, A. Adjorlu, L. M. Percy-Smith, C. F. Samar, and S. Serafin, 
 							“Vibrotactile Memory: A Case Study of Timbre Perception Training in Children with Cochlear Implants Using a Video Game,” 
 							2024. [Online]. Available: <a href="https://smcnetwork.org/smc2024/papers/SMC2024_paper_id109.pdf">https://smcnetwork.org/</a>.
