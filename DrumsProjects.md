@@ -43,7 +43,7 @@ image:
 
 <h2>How does it work?</h2>
 <p>
-<span class="image right"><img src="{% link assets/images/Cajon_Strip_Circuit.png %}" alt="Circuit of the conductive strip."/><br><em style="display: block; text-align: center; font-size: 0.9em;">Sketch of the circuit for the conductive strip.</em></span></p>
+<span class="image right"><img src="{% link assets/images/webp/Cajon_Strip_Circuit.webp %}" alt="Circuit of the conductive strip."/><br><em style="display: block; text-align: center; font-size: 0.9em;">Sketch of the circuit for the conductive strip.</em></span></p>
 <p>The Conductive Cajón is equipped with two piezoelectric triggers on the batter panel, a resistive touch input made of conductive paint on one side, an IMU, and a Bela BeagleBone Black microcontroller. The software running on the Bela is written in SuperCollider and features two mapping modalities with sample triggering and embedded sound synthesis. Users can interact with the batter panel to activate the triggers, use one hand to play the touch input strip, and tilt the cajón to modulate various parameters through the IMU.</p>
 
 
@@ -69,7 +69,7 @@ image:
 <p><p>In contemporary music, drummers tweak rhythms to create a specific feel through micro-timing variations. These small adjustments shift the beats' timing based on preference, genre, and tempo, making the rhythm more dynamic and engaging. The term "groove" describes rhythms that make you want to move, thanks to these subtle timing changes.</p></p>
 
 <h2>How does it work?</h2>
-<p><span class="image right"><img src="{% link assets/images/Drums_Patterns.jpg %}" alt="Scores of the drums' patterns."/><br><em style="display: block; text-align: center; font-size: 0.9em;">Grooves played in the study.</em></span></p>
+<p><span class="image right"><img src="{% link assets/images/webp/Drums_Patterns.webp %}" alt="Scores of the drums' patterns."/><br><em style="display: block; text-align: center; font-size: 0.9em;">Grooves played in the study.</em></span></p>
 
 <p>The study was conducted through a listening test where participants rated the danceability of drum patterns with different timing styles (laid-back, on-beat, pushed). Drummers' performances were recorded and analyzed for micro-timing variations. These recordings were then mixed and presented to participants via Google Forms, which included recordings of the drum patterns. Participants listened to the tracks and rated their danceability on a Likert scale. The experiment also included randomization to minimize bias and ensure the reliability of the results.</p>
 
@@ -91,7 +91,7 @@ image:
 
 <h1 id="laban-movement-analysis">Laban Movement Analysis for Drum Technique</h1>
 <p><span class="image main"><video width="100%" autoplay loop muted>
-    <source src="{% link assets/images/Comparison_Techniques.webm %}" type="video/mp4">
+    <source src="{% link assets/videos/Comparison_Techniques.webm %}" type="video/mp4">
     Your browser does not support the video tag.
 </video><br><em style="display: block; text-align: center; font-size: 0.9em;">Video analysis with skeleton overlay</em></span></p>
 

@@ -2,7 +2,7 @@
 layout: post
 title: EmotiCubes
 description: Emotion recognition training tool
-image: assets/images/EmotiCubes_Light.jpg
+image: assets/images/webp/EmotiCubes_Light.webp
 ---
 
 <!-- Main -->
@@ -24,7 +24,7 @@ image: assets/images/EmotiCubes_Light.jpg
 <p>Understanding and interpreting emotions is a fundamental skill in human communication. Children with hearing challenges often have difficulties identifying emotions. EmotiCubes aims to help develop these capabilities.</p>
 
 <h2>How does it work?</h2>
-<p><span class="image right"><img src="{% link assets/images/EmotiCubes_Interaction.png %}" alt="Sketch of a child wondering which emotions is represented."/><br><em style="display: block; text-align: center; font-size: 0.9em;"></em></span></p><p>The prototype is a simple cube that plays recordings of pseudospeech (non-language) with a specific emotion in the voice of the actor. The child has to rotate the cube to align it with the correct emotion depicted on the EmotiCube to select their response. The EmotiCube then provides sound feedback.</p>
+<p><span class="image right"><img src="{% link assets/images/webp/EmotiCubes_Interaction.webp %}" alt="Sketch of a child wondering which emotions is represented."/><br><em style="display: block; text-align: center; font-size: 0.9em;"></em></span></p><p>The prototype is a simple cube that plays recordings of pseudospeech (non-language) with a specific emotion in the voice of the actor. The child has to rotate the cube to align it with the correct emotion depicted on the EmotiCube to select their response. The EmotiCube then provides sound feedback.</p>
 
 
 <h2>Who is involved?</h2>

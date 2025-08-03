@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CV & Publications
-image: assets/images/CV&Publications.jpeg
+image: assets/images/webp/CV&Publications.webp
 nav-menu: true
 ---
 

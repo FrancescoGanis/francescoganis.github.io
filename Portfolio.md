@@ -2,7 +2,7 @@
 title: Portfolio
 layout: landing
 description: 'This is a collection of projects I have worked on over the past few years.'
-image: assets/images/FoggyCPH.jpg
+image: assets/images/webp/FoggyCPH.webp
 nav-menu: true
 ---
 
@@ -23,7 +23,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="SoundCubes.html" class="image">
-			<img src="{% link assets/images/SoundCubes_User.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/webp/SoundCubes_User.webp %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -39,7 +39,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="EmotiCubes.html" class="image">
-			<img src="{% link assets/images/EmotiCubes_Light.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/webp/EmotiCubes_Light.webp %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -55,7 +55,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="TickleTuner.html" class="image">
-			<img src="{% link assets/images/TickleTuner_Back.jpg %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/webp/TickleTuner_Back.webp %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -71,7 +71,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="HapticPrototypes.html" class="image">
-			<img src="{% link assets/images/iPad_Back2.jpg %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/webp/iPad_Back2.webp %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -87,7 +87,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="Videogame.html" class="image">
-			<img src="{% link assets/images/Vibrotactile_Videogame.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/webp/Vibrotactile_Videogame.webp %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -103,7 +103,7 @@ nav-menu: true
 	</section>
 		<section>
 		<a href="SoundDesign.html" class="image">
-			<img src="{% link assets/images/Car_Bubbles.jpg %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/webp/Car_Bubbles.webp %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -119,7 +119,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="Plugins.html" class="image">
-			<img src="{% link assets/images/DDSP_Plugin.png %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/webp/DDSP_Plugin.webp %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -135,7 +135,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="DrumsProjects.html" class="image">
-			<img src="{% link assets/images/LMA_Skeleton.png %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/webp/LMA_Skeleton.webp %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">

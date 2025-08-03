@@ -2,7 +2,7 @@
 layout: post
 title: Vibrotactile Memory
 description: Scalable and interactive sound localization training tool
-image: assets/images/Vibrotactile_Videogame.jpg
+image: assets/images/webp/Vibrotactile_Videogame.webp
 ---
 
 <!-- Main -->
@@ -26,7 +26,7 @@ image: assets/images/Vibrotactile_Videogame.jpg
 <p>Timbre is one of the fundamental aspects of sound; it defines the <em>color</em> or <em>quality</em> of a sound and allows us to distinguish a voice from a violin, for instance. Cochlear implants struggle to represent complex sounds, and timbre identification is one of the limitations of these highly complex neuroprostheses.</p>
 
 <h2>How does it work?</h2>
-<p><span class="image right"><img src="{% link assets/images/MemoryGame_Setup.png %}" alt="Sketch of the system."/><br><em style="display: block; text-align: center; font-size: 0.9em;">Sketch of the interaction</em></span></p>
+<p><span class="image right"><img src="{% link assets/images/webp/MemoryGame_Setup.webp %}" alt="Sketch of the system."/><br><em style="display: block; text-align: center; font-size: 0.9em;">Sketch of the interaction</em></span></p>
 <p>The game is inspired by classic memory games. The player has to match pairs of musical instrument sounds and vibrations based on their timbre. Once a pair is found, the cards are flipped, and the musical instrument is shown. The game is controlled with a PlayStation DualSense controller, which provides high-quality vibrotactile feedback. The game is designed to be scalable, allowing the player to start with a few sounds and increase the complexity as they progress.</p>
 
 <h2>Who is involved?</h2>

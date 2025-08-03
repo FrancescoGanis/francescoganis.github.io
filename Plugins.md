@@ -28,7 +28,7 @@ image:
 
 <h1 id="ddsp-in-real-time">DDSP in Real Time</h1>
 
-<span class="image main"><img src="{% link assets/images/DDSP_Plugin.png %}" alt="DDSP Synthesizer Plugin" /></span>
+<span class="image main"><img src="{% link assets/images/webp/DDSP_Plugin.webp %}" alt="DDSP Synthesizer Plugin" /></span>
 
 <h2>What is it?</h2>
 <p>The Differential Digital Signal Processing (DDSP) architecture was developed by the Google Magenta research group and released in October 2020. It allows the transfer of timbre from one audio source to another while keeping other characteristics (e.g., pitch, envelope, loudness) unaltered.</p>
@@ -58,7 +58,7 @@ image:
 <br>
 
 <h1 id="real-time-pitch-estimation">Real-time Pitch Estimation</h1>
-<span class="image main" style="width: 65%;"><img src="{% link assets/images/PitchEstimator.png %}" alt="Pitch Estimator Plugin" /></span>
+<span class="image main" style="width: 65%;"><img src="{% link assets/images/webp/PitchEstimator.webp %}" alt="Pitch Estimator Plugin" /></span>
 
 <h2>What is it?</h2>
 <p>It's a simple audio plug-in made in MATLAB (Audio Toolbox environment) that allows real-time pitch estimation of an audio source using the harmonic summation algorithm.</p>
@@ -75,7 +75,7 @@ For each audio segment:
     <li>Identify the frequency with the highest summation as the fundamental frequency.</li>
 </ul>
 
-<span class="image main"><img src="{% link assets/images/HS_Spectrogram.png %}" alt="Spectrogram with pitch estimation" /><br><em style="display: block; text-align: center; font-size: 0.9em;">Spectrogram of a viola playing an ascending scale. In red, the pitch estimation.</em></span>
+<span class="image main"><img src="{% link assets/images/webp/HS_Spectrogram.webp %}" alt="Spectrogram with pitch estimation" /><br><em style="display: block; text-align: center; font-size: 0.9em;">Spectrogram of a viola playing an ascending scale. In red, the pitch estimation.</em></span>
 
 <h2>Who is involved?</h2>
 <p>This project was a "mini-project" as part of my Master's degree in Sound and Music Computing, specifically for the course "Sound and Music Signal Analysis."</p>
