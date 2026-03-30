@@ -8,6 +8,6 @@ author: null
 show_tile: false
 ---
 
-<p>Hey, I'm an Italian PhD student based in Copenhagen, Denmark.<p>
+<p>I'm an engineer with a PhD in Tangible Interactive Technologies for Hearing and Music Development based in Copenhagen, Denmark.<p>
 
-<p>This is where I post about work-related and personal projects, as well as some of my passions such as photography and music!</p>
+<p>This is where I post about work and personal projects. Photography section coming soon—stay tuned!</p>
